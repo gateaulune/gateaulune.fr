@@ -23,7 +23,7 @@ export default function Socials(){
                 <div className="border-solid border-2 pr-24 pl-6 w-96 rounded-lg drop-shadow-[1px_1px_6px_rgba(255,255,255,1)] bg-gradient-to-r from-fuchsia-700 to-violet-700">
                     <div className="flex flex-col text-white" >
                         <a>Twitter</a>
-                        <a>Github</a>
+                        <Link href="https://github.com/gateaulune">Github</Link>
                         <a>Discord</a>
                     </div>
                 </div>
