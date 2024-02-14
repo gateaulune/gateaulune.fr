@@ -9,7 +9,7 @@ export default function Headerweb() {
       <div className="max-sm:space-x-4 flex inline flex-row text-xl space-x-10">
         <Link href="/">Home</Link>
         <Link href="socials"> Socials</Link>
-        <Link href="/projects">Projects</Link>
+        <Link href="https://github.com/gateaulune">Projects</Link>
       </div>
     </ul>
   );
