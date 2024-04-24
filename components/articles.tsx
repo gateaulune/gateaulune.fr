@@ -1,5 +1,5 @@
 import React from 'react';
-import Article1 from './articles/article1';
+import Article1 from '../public/articles/article1';
 import Link from 'next/link';
 export default function ArticlesPage() {
     return (
